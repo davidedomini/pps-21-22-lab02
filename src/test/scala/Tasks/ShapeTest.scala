@@ -1,10 +1,8 @@
-package u02
+package Tasks
 
-import Tasks.Shape.*
-import Tasks.perimeter
-import Tasks.area
-import org.junit.*
+import Es7.Shape.*
 import org.junit.Assert.*
+import org.junit.Test
 
 class ShapeTest:
 
