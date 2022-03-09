@@ -20,5 +20,5 @@ object Es7 extends App:
 
 
   import Shape.*
-  println(perimeter(Shape.Rectangle(4,5)))
-  println(area(Shape.Circle(5)))
+    println(perimeter(Shape.Rectangle(4,5)))
+    println(area(Shape.Circle(5)))
